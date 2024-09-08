@@ -1,0 +1,20 @@
+F:\C# projects\json parsing\json parsing\obj\Debug\json parsing.csproj.AssemblyReference.cache
+F:\C# projects\json parsing\json parsing\obj\Debug\json parsing.csproj.CoreCompileInputs.cache
+F:\C# projects\json parsing\json parsing\bin\Debug\json parsing.exe.config
+F:\C# projects\json parsing\json parsing\bin\Debug\json parsing.exe
+F:\C# projects\json parsing\json parsing\bin\Debug\json parsing.pdb
+F:\C# projects\json parsing\json parsing\bin\Debug\Newtonsoft.Json.dll
+F:\C# projects\json parsing\json parsing\bin\Debug\Newtonsoft.Json.xml
+F:\C# projects\json parsing\json parsing\obj\Debug\json parsing.csproj.CopyComplete
+F:\C# projects\json parsing\json parsing\obj\Debug\json parsing.exe
+F:\C# projects\json parsing\json parsing\obj\Debug\json parsing.pdb
+F:\C# projects\json parsing(без запроса json файла)\json parsing\bin\Debug\json parsing.exe.config
+F:\C# projects\json parsing(без запроса json файла)\json parsing\bin\Debug\json parsing.exe
+F:\C# projects\json parsing(без запроса json файла)\json parsing\bin\Debug\json parsing.pdb
+F:\C# projects\json parsing(без запроса json файла)\json parsing\bin\Debug\Newtonsoft.Json.dll
+F:\C# projects\json parsing(без запроса json файла)\json parsing\bin\Debug\Newtonsoft.Json.xml
+F:\C# projects\json parsing(без запроса json файла)\json parsing\obj\Debug\json parsing.csproj.AssemblyReference.cache
+F:\C# projects\json parsing(без запроса json файла)\json parsing\obj\Debug\json parsing.csproj.CoreCompileInputs.cache
+F:\C# projects\json parsing(без запроса json файла)\json parsing\obj\Debug\json parsing.csproj.CopyComplete
+F:\C# projects\json parsing(без запроса json файла)\json parsing\obj\Debug\json parsing.exe
+F:\C# projects\json parsing(без запроса json файла)\json parsing\obj\Debug\json parsing.pdb
