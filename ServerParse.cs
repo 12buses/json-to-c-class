@@ -47,11 +47,23 @@ public class ServerParse : MonoBehaviour
 
     void ProcessJsonData(string json)
     {
-        List <products> items = JsonConvert.DeserializeObject<List<products>>(json);
-        foreach (products cur in items)
+        var a = 0;  
+        Root cur = JsonConvert.DeserializeObject<Root>(json);
+        int j = cur.products.Count;
+        while (a < j-1)
         {
-            Debug.Log(cur.productId + " " + cur.category);
+            a++;
+            Debug.Log(cur.products[a].category + " Category " + a );
+            Debug.Log(cur.products[a].productId + "prodId " + a);
+            cur.products[a].productId = 1312;
+            cur.products[a].category = "da";
+            Debug.Log(cur.products[a].category + " Category " + a + " после изм");
+            Debug.Log(cur.products[a].productId + "prodId " + a + " после изм");
+
         }
+        
+        json = JsonConvert.SerializeObject(cur);
+
     }
 
         // Здесь добавьте код для обработки первых полученных данных
